@@ -1,2 +1,2 @@
-# email
-Email starter using Ink/Grunt
+# Email
+Responsive email starter using Ink, Sass, and Grunt
